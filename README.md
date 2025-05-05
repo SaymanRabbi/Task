@@ -1,12 +1,68 @@
-# React + Vite
+🎮 Game List UI Application
+A modern React game list interface with filtering, lazy loading, and responsive design using Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🧩 Features
+Game Type Filtering : Filter games by type (e.g., "Slot Game", "CasinoLive")
+Lazy Loading Skeletons : Shimmer animations during data loading
+Load More Button : Incrementally load 6 games at a time
+Responsive Layout : Optimized for mobile, tablet, and desktop
+Modular Components : Clean separation of concerns with reusable components
 
-Currently, two official plugins are available:
+🛠 Technologies Used
+React
+^19.0.0
+Vite
+^6.3.1
+Tailwind CSS
+^4.1.5
+React Plugin
+@vitejs/plugin-react@^4.3.4
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📦 Setup Instructions
+✅ Prerequisites
+Node.js (v18+ recommended)
+npm (v9+ recommended)
 
-## Expanding the ESLint configuration
+📥 Installation Steps
+Clone the repository
+git clone https://github.com/SaymanRabbi/Task.git
+cd game-list-ui
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Install dependencies
+npm install
+Start development server
+
+npm run dev
+Open http://localhost:5173 in your browser
+
+## 💡 Key Enhancements
+🧱 Component-Based Architecture
+GameCard : Reusable game display unit
+SkeletonLoader : Smooth loading animation
+FilterButtons : Dynamic filter UI
+LoadMoreButton : Button with loading spinner
+
+🎨 Visual Improvements
+Gradient header text (from-blue-600 to-purple-600)
+Animated hover effects on game cards
+Shimmer skeletons during loading
+Responsive grid layout (sm:grid-cols-2 → lg:grid-cols-4)
+
+## 🧪 Testing & Deployment
+
+🔬 Development Server
+npm run dev
+
+📦 Production Build
+npm run build
+
+🔍 Preview Build
+npm run preview
+
+## 📝 Customization Tips
+Update Game Data : Edit game_list.json and game_types.json
+Styling : Modify Tailwind classes in components
+Add Features :
+Infinite scroll (replace "Load More" button)
+Game search functionality
+Category icons for filters
