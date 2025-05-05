@@ -1,0 +1,74 @@
+[
+  {
+    "game_name": "Chin Shi Huang",
+    "game_code": "24da72b49b0dd0e5cbef9579d09d8981",
+    "game_type": "Slot Game",
+    "game_image": "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/jili/Chin-Shi-Huang.png"
+  },
+  {
+    "game_name": "God Of Martial",
+    "game_code": "21ef8a7ddd39836979170a2e7584e333",
+    "game_type": "Slot Game",
+    "game_image": "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/jili/God-Of-Martial.png"
+  },
+  {
+    "game_name": "Hot Chilli",
+    "game_code": "c845960c81d27d7880a636424e53964d",
+    "game_type": "Slot Game",
+    "game_image": "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/jili/Hot-Chilli.png"
+  },
+  {
+    "game_name": "Fortune Tree",
+    "game_code": "6a7e156ceec5c581cd6b9251854fe504",
+    "game_type": "Slot Game",
+    "game_image": "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/jili/Fortune-Tree.png"
+  },
+  {
+    "game_name": "War Of Dragons",
+    "game_code": "4b1d7ffaf9f66e6152ea93a6d0e4215b",
+    "game_type": "Slot Game",
+    "game_image": "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/jili/War-Of-Dragons.png"
+  },
+  {
+    "game_name": "Gem Party",
+    "game_code": "756cf3c73a323b4bfec8d14864e3fada",
+    "game_type": "Slot Game",
+    "game_image": "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/jili/Gem-Party.png"
+  },
+  {
+    "game_name": "Lucky Ball",
+    "game_code": "893669898cd25d9da589a384f1d004df",
+    "game_type": "Slot Game",
+    "game_image": "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/jili/Lucky-Ball.png"
+  },
+  {
+    "game_name": "Hyper Burst",
+    "game_code": "a47b17970036b37c1347484cf6956920",
+    "game_type": "Slot Game",
+    "game_image": "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/jili/Hyper-Burst.png"
+  },
+  {
+    "game_name": "Shanghai Beauty",
+    "game_code": "795d0cae623cbf34d7f1aa93bbcded28",
+    "game_type": "Slot Game",
+    "game_image": "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/jili/Shanghai-Beauty.png"
+  },
+  {
+    "game_name": "Fa Fa Fa",
+    "game_code": "54c41adcf43fdb6d385e38bc09cd77ca",
+    "game_type": "Slot Game",
+    "game_image": "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/jili/Fa-Fa-Fa.png"
+  },
+  {
+    "game_name": "Candy Baby",
+    "game_code": "2cc3b68cbcfacac2f7ef2fe19abc3c22",
+    "game_type": "Slot Game",
+    "game_image": "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/jili/Candy-Baby.png"
+  },
+  {
+    "game_name": "Hawaii Beauty",
+    "game_code": "6409b758471b6df30c6b137b49f4d92e",
+    "game_type": "Slot Game",
+    "game_image": "https://huidu-bucket.s3.ap-southeast-1.amazonaws.com/api/jili/Hawaii-Beauty.png"
+  }
+]
